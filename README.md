@@ -7,8 +7,8 @@
 <br>
 <p> Estare subiendo: </p>
   <ul> 
-    	<li> Calcular la edad de una persona v-0.1 </li>
-	<li> Calcula la edad de una persona </li>
+    	<li> Calcular la edad de una persona </li>
+	<li> Calcula la edad de una persona v-0.1 </li>
 	<li> convertir grados centrigrados a grados Farengeith </li>
 	<li> Convertir horas en minutos </li>
   </ul>
